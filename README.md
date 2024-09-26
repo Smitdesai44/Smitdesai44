@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me smitdesai204@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
 
 <!---
 Smitdesai44/Smitdesai44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
