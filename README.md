@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Smit desai
-- 👀 I’m interested in software development, artificial intelligence, and open-source projects.
-- 🌱 I’m currently learning Python and machine learning techniques.
-- 💞️ I’m looking to collaborate on web applications
+- 👋 Hi, I’m Smit Desai
+- 👀 I’m interested in software development, full-stack development, and contributing to open-source projects.
+- 🌱 I’m currently learning Python full-stack development.
+- 💞️ I’m looking to collaborate on web applications, especially full-stack projects
 - 📫 How to reach me smitdesai204@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
 
 <!---
